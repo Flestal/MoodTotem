@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThoughtDef>
+    <defName>ObservedNude</defName>
+    <!-- <thoughtClass>Thought_MemoryObservation</thoughtClass> -->
+    <workerClass>MoodTotem.ThoughtWorker_ObserveNude</workerClass>
+    <!-- <durationDays>1</durationDays> -->
+    <!-- <stackedEffectMultiplier>0.5</stackedEffectMultiplier> -->
+    <!-- <stackLimit>3</stackLimit> -->
+    <stages>
+      <li>
+        <label>전설적인 토템</label>
+        <description>ㅗㅜㅑ</description>
+        <baseMoodEffect>10</baseMoodEffect>
+      </li>
+      <li>
+        <label>상급 토템</label>
+        <description>조각상을 감상하는 느낌이야.</description>
+        <baseMoodEffect>5</baseMoodEffect>
+      </li>
+      <li>
+        <label>평범한 토템</label>
+        <description>옷은 입고 살아.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>빈약한 토템</label>
+        <description>그 혐오스러운 거 저리 치워.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+      <li>
+        <label>끔찍한 토템</label>
+        <description>으악 내 눈!</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>	
+    </ThoughtDef>
+</Defs>

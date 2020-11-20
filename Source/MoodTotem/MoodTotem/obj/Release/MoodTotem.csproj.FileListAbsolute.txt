@@ -1,0 +1,6 @@
+C:\Steam\steamapps\common\RimWorld\Mods\MoodTotem\1.2\Assemblies\MoodTotem.dll
+C:\Steam\steamapps\common\RimWorld\Mods\MoodTotem\1.2\Assemblies\MoodTotem.pdb
+C:\Steam\steamapps\common\RimWorld\Mods\MoodTotem\Source\MoodTotem\MoodTotem\obj\Release\MoodTotem.csprojAssemblyReference.cache
+C:\Steam\steamapps\common\RimWorld\Mods\MoodTotem\Source\MoodTotem\MoodTotem\obj\Release\MoodTotem.csproj.CoreCompileInputs.cache
+C:\Steam\steamapps\common\RimWorld\Mods\MoodTotem\Source\MoodTotem\MoodTotem\obj\Release\MoodTotem.dll
+C:\Steam\steamapps\common\RimWorld\Mods\MoodTotem\Source\MoodTotem\MoodTotem\obj\Release\MoodTotem.pdb

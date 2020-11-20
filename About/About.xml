@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Nudist Mood Totem</name>
+  <author>Vaniat</author>
+  <supportedVersions>
+    <li>1.2</li>
+  </supportedVersions>
+  <description>
+    Make Nudist Great Again!
+    Nudist provide mood in line with beauty. 
+  </description>
+  <packageId>Flestal.MoodTotem</packageId>
+</ModMetaData>
